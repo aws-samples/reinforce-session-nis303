@@ -1,6 +1,10 @@
-## My Project
+## WAF rule examples for re:Inforce 2023 session NIS 303
 
-TODO: Fill this README out!
+This repo contains a Cloudformation templates with,
+  - AWS WAF
+  - Managed Rule group - Common Rule Set
+  - Custom rule for false positive exception for Cross Site Scripting query arguments
+  - Custom rule for granular geo based rate limitting
 
 Be sure to:
 
